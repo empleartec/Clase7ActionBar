@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Clase7ActionBar</string>
+
+    <string name="hello_world">Hola Mundo</string>
+    <string name="action_settings">Configuración</string>
+    <string name="action_hide">Ocultar</string>
+    <string name="action_set_title">Cambiar título</string>
+    <string name="action_show">Mostrar</string>
+</resources>
