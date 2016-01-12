@@ -6,4 +6,5 @@
     <string name="action_hide">Ocultar</string>
     <string name="action_set_title">Cambiar título</string>
     <string name="action_show">Mostrar</string>
+    <string name="action_share">Compartir</string>
 </resources>

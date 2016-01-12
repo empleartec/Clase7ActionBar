@@ -20,7 +20,8 @@ public class ActivityCompatActionBar extends AppCompatActivity {
 
     @Override
     public boolean onCreateOptionsMenu(Menu menu) {
-        getMenuInflater().inflate(R.menu.menu_activity_compat_action_bar, menu);
+        getMenuInflater().inflate(
+            R.menu.menu_activity_compat_action_bar, menu);
         return true;
     }
 

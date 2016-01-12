@@ -7,5 +7,16 @@
     <item android:id="@+id/action_set_title" android:title="@string/action_set_title"
         android:orderInCategory="100" app:showAsAction="never" />
 
+    <!-- "Share", va a aparecer como un action button siempre que sea posible -->
+    <item
+        android:id="@+id/action_share"
+        android:icon="@drawable/ic_action_share"
+        android:title="@string/action_share"
+        app:showAsAction="ifRoom"/>
+
+    <!-- Settings, should always be in the overflow -->
+    <item android:id="@+id/action_settings"
+        android:title="@string/action_settings"
+        app:showAsAction="never"/>
 
 </menu>
