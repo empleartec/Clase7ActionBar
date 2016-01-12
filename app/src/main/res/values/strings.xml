@@ -7,4 +7,6 @@
     <string name="action_set_title">Cambiar título</string>
     <string name="action_show">Mostrar</string>
     <string name="action_share">Compartir</string>
+    <string name="action_search">Buscar</string>
+    <string name="searching">Buscando...</string>
 </resources>
